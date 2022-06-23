@@ -1,7 +1,5 @@
 # TiktokDownload-Multi-GUI
 
-**Comming Soon**
-
 A GUI Tiktok video batch download tool that based on [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) & PySimpleGUI
 
 **Please notice that because of I am a student so this repo may not provide stable maintenance or updates**
