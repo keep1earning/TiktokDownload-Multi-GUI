@@ -12,6 +12,7 @@ class TikTok():
         self.out_Print()
         # 绘制布局
         print("#" * 120)
+        print("一个基于 https://github.com/Johnserf-Seed/TikTokDownload 和 PySimpleGUI 的图形化抖音视频批量下载工具,项目地址 https://github.com/aoligei-max/TiktokDownload-Multi-GUI")
         print("#" * 120)
         print('\r')
 
