@@ -39,7 +39,7 @@ jobs:
           python3 -m pip install --upgrade pip
       - name: Pack the py file to exe file
         run: |
-          pyinstaller ./TiktokDownload-Multi-GUI.py
+          pyinstaller -F ./TiktokDownload-Multi-GUI.py
           cd ./dist
           ls
           pwd
