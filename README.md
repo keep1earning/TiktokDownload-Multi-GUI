@@ -1,5 +1,7 @@
 # TiktokDownload-Multi-GUI
 
+**因为上游接口改动,已经失效**
+
 A GUI Tiktok video batch download tool that based on [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) & PySimpleGUI
 
 **Please notice that because of I am a student so this repo may not provide stable maintenance or updates**
